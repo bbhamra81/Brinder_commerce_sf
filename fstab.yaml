@@ -1,5 +1,7 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/BBhamra_eds_service/Shared%20Documents/Brinder_commerce_sf?csf=1&web=1&e=5pVa7v
+
+
 
 folders:
   /products/: /products/default
